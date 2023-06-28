@@ -32,19 +32,21 @@ Some commands and shortcuts for "less"
 
 ## Command collection
 
-less -N Datei → Die Datei wird mit durchnummerierten Zeilen geöffnet (Zeilennummern werden mit kopiert)
-less -X Datei → Der Bildschirminhalt bleibt nach dem Beenden in der Konsole stehen
-g[n] → Springt zur n-ten Zeile (Nützlich in Verbindung mit -N) Beispiel: »g5«
-/pattern → sucht vorwärts nach pattern und springt zum ersten Treffer
-?pattern → sucht rückwärts nach pattern und springt zum ersten Treffer
-n → springt zum nächsten Treffer
-N → springt zurück zum letzten Treffer
-g → Dadurch springt less zum Dateiende
-G → Dadurch springt less zum Dateianfang
-z → Eine Seite weiter springen (genauso wie SPACE)
-w → Eine Seite zurück springen
-h → Zeigt die Hilfe zum Befehl (q → springt zurück in die geöffnete Datei)
-q → Schließt die Datei
+<ul>
+<li>less -N Datei → Die Datei wird mit durchnummerierten Zeilen geöffnet (Zeilennummern werden mit kopiert)</li>
+<li>less -X Datei → Der Bildschirminhalt bleibt nach dem Beenden in der Konsole stehen</li>
+<li>g[n] → Springt zur n-ten Zeile (Nützlich in Verbindung mit -N) Beispiel: »g5«</li>
+<li>/pattern → sucht vorwärts nach pattern und springt zum ersten Treffer</li>
+<li>?pattern → sucht rückwärts nach pattern und springt zum ersten Treffer</li>
+<li>n → springt zum nächsten Treffer</li>
+<li>N → springt zurück zum letzten Treffer</li>
+<li>g → Dadurch springt less zum Dateiende</li>
+<li>G → Dadurch springt less zum Dateianfang</li>
+<li>z → Eine Seite weiter springen (genauso wie SPACE)</li>
+<li>w → Eine Seite zurück springen</li>
+<li>h → Zeigt die Hilfe zum Befehl (q → springt zurück in die geöffnete Datei)</li>
+<li>q → Schließt die Datei</li>
+</ul>
 
 <!-- ROADMAP -->
 
